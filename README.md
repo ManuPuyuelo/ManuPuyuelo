@@ -1,7 +1,9 @@
-# Hi there!
+<h1 align="center"> Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page! I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
+    <b>Welcome to my page! 
+        <br/>
+I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
     <i>
 🔄 In professional retraining | 👨‍💻 ex-MD @Vizzit | 🚀 Trained by La Capsule in JS, React, React Native, HTML, CSS <br/>
 👨‍🎓 Alumni from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
@@ -23,3 +25,26 @@
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/ManuPuyuelo)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/ManuPuyuelo)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/ManuPuyuelo)
+
+<details>
+<p align="center">
+  <a href="https://github.com/ManuPuyuelo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuPuyuelo&theme=buefy" />
+  </a>
+   <a href="https://github.com/ManuPuyuelo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuPuyuelo&hide_border=true&card_width=338&theme=buefy" />
+  </a>
+   <a href="https://github.com/ManuPuyuelo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuPuyuelo&theme=buefy" />
+  </a>
+ <a href="https://github.com/ManuPuyuelo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuPuyuelo&theme=buefy" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/ManuPuyuelo">
+    <img src="https://komarev.com/ghpvc/?username=ManuPuyuelo&color=FF3366&style=flat)" />
+  </a>
+</p>

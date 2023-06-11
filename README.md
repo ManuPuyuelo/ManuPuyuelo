@@ -17,33 +17,24 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
 </p>
 
 ## Languages, Technologies & Frameworks
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ManuPuyuelo)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/ManuPuyuelo)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/ManuPuyuelo)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ManuPuyuelo)
-[![React Native](https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react)](https://github.com/ManuPuyuelo)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react)
 <br/>
-[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/ManuPuyuelo)
-[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/ManuPuyuelo)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/ManuPuyuelo)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 
 ## Stats
 
 <p align="center">
-  <a href="https://github.com/ManuPuyuelo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuPuyuelo&theme=buefy" />
-  </a>
- <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuPuyuelo&hide_border=true&card_width=338&theme=buefy" />
-  </a>
-   <a href="https://github.com/ManuPuyuelo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuPuyuelo&theme=buefy" />
-  </a>
     <br/>
- <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuPuyuelo&theme=buefy" />
-  </a>
-
 </p>
 
 

@@ -38,6 +38,7 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
    <a href="https://github.com/ManuPuyuelo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuPuyuelo&theme=buefy" />
   </a>
+    <br/>
  <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuPuyuelo&theme=buefy" />
   </a>

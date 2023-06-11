@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-🔄 In professional retraining | 👨‍💻 ex-MD @Vizzit | 🚀 Trained by La Capsule in JS, React, React Native, HTML, CSS 
+🔄 In professional retraining | 👨‍💻 ex-MD @Vizzit | 🚀 Trained by La Capsule in JS, React, React Native, HTML, CSS <br/>
 👨‍🎓 Alumni from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
     </i><br><br>
     <a href="https://www.linkedin.com/in/manupuyuelo">
@@ -19,7 +19,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/ManuPuyuelo)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/ManuPuyuelo)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ManuPuyuelo)
-[![ReactNative](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ManuPuyuelo)
-[![Node.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=nodedotjs)](https://github.com/ManuPuyuelo)
-[![Express](https://img.shields.io/badge/react-black?style=for-the-badge&logo=express)](https://github.com/ManuPuyuelo)
-[![MongoDB](https://img.shields.io/badge/react-black?style=for-the-badge&logo=mongodb)](https://github.com/ManuPuyuelo)
+[![React Native](https://img.shields.io/badge/reactnative-black?style=for-the-badge&logo=reactnative)](https://github.com/ManuPuyuelo)
+[![Node.js](https://img.shields.io/badge/nodedotjs-black?style=for-the-badge&logo=nodedotjs)](https://github.com/ManuPuyuelo)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/ManuPuyuelo)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/ManuPuyuelo)

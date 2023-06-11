@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="28px" alt="👋"></h1>
+<h1 align="center"> Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="36px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page! 

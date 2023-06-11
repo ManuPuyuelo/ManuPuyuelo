@@ -1,7 +1,7 @@
 # Hi there!
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page! I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
     <i>
 🔄 In professional retraining | 👨‍💻 ex-MD @Vizzit | 🚀 Trained by La Capsule in JS, React, React Native, HTML, CSS <br/>
 👨‍🎓 Alumni from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser

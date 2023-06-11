@@ -33,7 +33,7 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
   <a href="https://github.com/ManuPuyuelo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuPuyuelo&theme=buefy" />
   </a>
-<details>   <a href="https://github.com/ManuPuyuelo">
+ <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuPuyuelo&hide_border=true&card_width=338&theme=buefy" />
   </a>
    <a href="https://github.com/ManuPuyuelo">
@@ -43,7 +43,7 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
  <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuPuyuelo&theme=buefy" />
   </a>
-    </details>
+
 </p>
 
 

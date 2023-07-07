@@ -30,9 +30,6 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
 ## Stats
 
 <p align="center">
-  <a href="https://github.com/ManuPuyuelo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuPuyuelo&theme=buefy" />
-  </a>
  <a href="https://github.com/ManuPuyuelo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuPuyuelo&hide_border=true&card_width=338&theme=buefy" />
   </a>

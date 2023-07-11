@@ -5,7 +5,7 @@
         <br/>
 I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
     <i>
-👨‍💻 Fullstack Developer | 🚀 Graduated from La Capsule | 👨‍🎓 Graduated from emlyon Business School<br/>
+👨‍💻 Fullstack Developer | 👨‍🎓 Graduated from La Capsule & from emlyon Business School<br/>
  💼 7-year in Product & Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
     </i><br><br>
     <a href="https://www.linkedin.com/in/manupuyuelo">

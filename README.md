@@ -5,7 +5,7 @@
         <br/>
 I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
     <i>
-👨‍💻 Fullstack Developer Javascript, React, React Native, HTML/CSS | 🚀 Graduated from La Capsule <br/>
+👨‍💻 Fullstack Developer #Javascript #React #React Native #HTML/CSS | 🚀 Graduated from La Capsule <br/>
 👨‍🎓 Graduated from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
     </i><br><br>
     <a href="https://www.linkedin.com/in/manupuyuelo">

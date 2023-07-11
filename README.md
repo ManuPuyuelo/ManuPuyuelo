@@ -5,8 +5,8 @@
         <br/>
 I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
     <i>
-🔄 In professional retraining | 👨‍💻 ex-MD @Vizzit | 🚀 Trained by La Capsule in JS, React, React Native, HTML, CSS <br/>
-👨‍🎓 Alumni from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
+👨‍💻 Fullstack Developer | 🚀 Graduated from La Capsule in JS, React, React Native, HTML, CSS <br/>
+👨‍🎓 Graduated from emlyon Business School | 💼 7-year of Marketing @Green-Acres, @L'Oréal & @Reckitt Benckiser
     </i><br><br>
     <a href="https://www.linkedin.com/in/manupuyuelo">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

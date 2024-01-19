@@ -18,6 +18,7 @@ I am Manu Puyuelo and you can find out more about me just below.</b><br><br>
 
 ## Languages, Technologies & Frameworks
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ManuPuyuelo)
+[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=typescript)](https://github.com/ManuPuyuelo)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/ManuPuyuelo)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/ManuPuyuelo)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ManuPuyuelo)
